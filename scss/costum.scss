@@ -1,5 +1,11 @@
-$primary: #FFCC1D;
-$secondary: #0B4619;
+$primary: #ffcc1d;
+$secondary: #0b4619;
+
+$theme-colors: (
+  "kuning": $primary,
+  "ijo ": $secondary,
+);
+
 $body-bg: #000;
 $body-color: #fff;
 
